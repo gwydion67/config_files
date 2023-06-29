@@ -44,5 +44,6 @@
     "<C-v>": false,
     "<C-x>": false
   },
-  "settings-repository.repository": "https://github.com/gwydion67/config_files.git"
+  "settings-repository.repository": "https://github.com/gwydion67/config_files.git",
+  "git.confirmSync": false
 }
