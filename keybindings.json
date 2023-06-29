@@ -5,9 +5,10 @@
         "command": "tab",
         "when": "editorTextFocus && !editorTabMovesFocus"
     },
+    
     {
         "key": "shift+tab",
-        "command": "outdent",
+        "command": "workbench.action.terminal.focus",
         "when": "editorTextFocus && !editorTabMovesFocus"
     }
 ]

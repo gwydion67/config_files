@@ -21,6 +21,10 @@
       {
         "before": [":"],
         "commands": ["workbench.action.showCommands"]
+      },
+      {
+        "before": ["t","t"],
+        "commands": ["workbench.action.terminal.focus"]
       }
     ],
     "vim.visualModeKeyBindingsNonRecursive": [
@@ -45,5 +49,5 @@
     "<C-x>": false
   },
   "settings-repository.repository": "https://github.com/gwydion67/config_files.git",
-  "git.confirmSync": false
+  "git.confirmSync": false,
 }
