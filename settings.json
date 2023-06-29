@@ -1,0 +1,48 @@
+{
+    "tabnine.experimentalAutoImports": true,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Dracula",
+    "editor.linkedEditing": true,
+    "vim.useSystemClipboard": true,
+    "vim.insertModeKeyBindings": [
+        {
+          "before": ["k", "j"],
+          "after": ["<Esc>"]
+        }
+      ],
+    
+    "vim.normalModeKeyBindings": [
+      {
+        "before":["s","e"],
+        "commands":["workbench.action.splitEditor"]
+      }
+    ],
+    "vim.normalModeKeyBindingsNonRecursive": [
+      {
+        "before": [":"],
+        "commands": ["workbench.action.showCommands"]
+      }
+    ],
+    "vim.visualModeKeyBindingsNonRecursive": [
+      {
+        "before": [">"],
+        "commands": ["editor.action.indentLines"]
+      },
+      {
+        "before": ["<"],
+        "commands": ["editor.action.outdentLines"]
+      }
+    ],
+    
+
+
+
+    "vim.handleKeys": {
+    "<C-a>": false,
+    "<C-f>": false,
+    "<C-c>": false,
+    "<C-v>": false,
+    "<C-x>": false
+  },
+  "settings-repository.repository": "https://github.com/gwydion67/config_files.git"
+}
