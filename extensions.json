@@ -267,7 +267,7 @@
     {
         "identifier": "rajeshroyal896.extended-html5-boilerplate",
         "version": "0.0.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "remyhunt.vsc-html-modern",
