@@ -267,7 +267,7 @@
     {
         "identifier": "rajeshroyal896.extended-html5-boilerplate",
         "version": "0.0.1",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "remyhunt.vsc-html-modern",
@@ -297,7 +297,7 @@
     {
         "identifier": "streetsidesoftware.code-spell-checker",
         "version": "2.20.5",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "TabNine.tabnine-vscode",
